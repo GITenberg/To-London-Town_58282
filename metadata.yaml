@@ -1,5 +1,8 @@
 _repo: To-London-Town_58282
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58282-h/images/covers.jpg
 creator:
   author:
     agent_name: Morrison, Arthur
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3903
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58282#To-London-Town
 gutenberg_issued: '2018-11-14'
 gutenberg_type: Text
 identifiers:
